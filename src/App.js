@@ -47,3 +47,7 @@
 // React me form submit karte waqt page refresh hota hai
 
 // is liye hum preventDefault laga te hain take page refresh na ho or form submit ho jay 
+
+// preventDefault()
+
+// Browser ka default behavior (page refresh) rok deta hai.
